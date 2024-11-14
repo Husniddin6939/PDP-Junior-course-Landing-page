@@ -46,6 +46,8 @@
   top: 15px;
   left: 22px;
   padding: 13px 39px 53px 39px;
+  border: 1px solid #E6E6E6;
+  border-radius: 21px;
 
   h1 {
     font-size: 31px;
